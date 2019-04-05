@@ -28,3 +28,6 @@ h3{
 	color: white;
 	padding: 20px;
 }
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}

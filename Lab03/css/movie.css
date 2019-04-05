@@ -10,6 +10,7 @@ body{
 	background-image: url("../images/bannerbg.png");
 	background-repeat: repeat-x;
 	height: 50px;
+	text-align: center;
 }
 
 h1{
@@ -26,18 +27,20 @@ h1{
 	border: 4px solid gray;
 	border-radius: 20px;
 	overflow: hidden;
+	
 
 }
 
 #left-part{
-	width:550px;
+	max-width:550px;
 	display: inline-block;
 	float: left;
 	box-sizing: border-box;
+	
 }
 
 #right-part{
- width: 250px;
+ max-width: 250px;
  display: inline-block;
  float: right;
  background-color: #A2B964;
@@ -50,6 +53,8 @@ h1{
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
+	 background-color: #A2B964;
+
 
 }
 
@@ -85,6 +90,8 @@ h1{
 	font-weight: bold;
 	border-radius: 10px;
 	padding: 8px;
+	overflow: hidden;
+	box-sizing: border-box;
 }
 
 .reviewer{
@@ -92,11 +99,37 @@ h1{
 }
 
 .review{
-	margin-bottom: 20px;
+	margin-bottom: 30px;
+
 }
 
 dt{
 	font-size: 10pt;
 	font-weight: bold;
 	margin-top: 10px;
+}
+
+.review p>img{
+	float: left;
+	padding: 5px;
+}
+
+dl ul{
+	list-style-type: none;
+}
+
+dl{
+	box-sizing: border-box;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.validats{
+	position: fixed;
+	bottom:5px;
+	right:5px;
+}
+
+.validats p{
+	display: inline-block;
 }
