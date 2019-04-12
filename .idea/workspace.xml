@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2d52257-75a4-4d16-9ce5-a08eca25c82c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab08/lab08.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08/lab08.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            <state relative-caret-position="272">
+              <caret line="16" column="72" lean-forward="true" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -171,7 +172,7 @@
       <workItem from="1554675023699" duration="4198000" />
       <workItem from="1554859432731" duration="1586000" />
       <workItem from="1554923668750" duration="2183000" />
-      <workItem from="1555082349362" duration="108000" />
+      <workItem from="1555082349362" duration="797000" />
     </task>
     <task id="LOCAL-00001" summary="First Changes">
       <created>1554146902282</created>
@@ -348,11 +349,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554924237407</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Lab 8">
+      <created>1555082543905</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1555082543906</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32011000" />
+    <option name="totallyTimeSpent" value="32700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -404,7 +412,8 @@
     <MESSAGE value="Lab 5" />
     <MESSAGE value="Lab 6" />
     <MESSAGE value="Lab 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 7" />
+    <MESSAGE value="Lab 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 8" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lab02/aboutme.html" />
@@ -530,8 +539,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="272">
+          <caret line="16" column="72" lean-forward="true" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
         </state>
       </provider>
     </entry>
